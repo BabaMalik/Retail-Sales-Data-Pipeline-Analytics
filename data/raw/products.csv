@@ -1,0 +1,15 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+P001,wireless mouse,electronics,computer accessories,8.50,15.99
+P002,Wireless Keyboard,ELECTRONICS,computer accessories,12.25,24.99
+P003,usb-c cable, electronics ,mobile accessories,2.10,8.99
+P004,Running Shoes,sportswear,footwear,30.00,59.99
+P005,Yoga Mat, fitness,exercise gear,10.00,24.99
+P006,water bottle, Fitness ,hydration,4.25,12.50
+P007,Coffee Maker,home appliances,kitchen,22.00,49.99
+P008,Blender,HOME APPLIANCES,kitchen,18.00,44.99
+P009,Notebook Set,stationery,office supplies,3.00,9.99
+P010,Desk Lamp,Home decor,lighting,11.00,29.99
+P002,Wireless Keyboard,ELECTRONICS,computer accessories,12.25,24.99
+P011,Graphic T-Shirt, apparel ,casual wear,6.50,18.99
+P012,Travel Backpack,Accessories,travel gear,20.00,54.99
+

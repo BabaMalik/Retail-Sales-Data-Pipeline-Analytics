@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,gender,age,city,state,signup_date
+C001,john,doe,Male,34,new york,ny,2024-01-15
+C002,EMILY,Stone,Female,29,boston,ma,2024-02-20
+C003,Michael,Brown,Male,41,chicago,il,2023-11-03
+C004,sophia,lee,Female,37,seattle,wa,2024-03-12
+C005,Daniel,Garcia,Male,,austin,tx,2024-04-02
+C006,Olivia,Martin,Female,25,,ca,2024-04-18
+C007,Noah,Wilson,Male,31,miami,fl,2024-01-29
+C008,Ava,Thomas,Female,45,denver,co,2023-12-14
+C009,James,Clark,Male,28,phoenix,az,2024-02-11
+C010,Mia,Lewis,Female,33,atlanta,ga,2024-02-25
+C010,Mia,Lewis,Female,33,atlanta,ga,2024-02-25
+

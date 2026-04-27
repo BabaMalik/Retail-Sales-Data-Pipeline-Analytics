@@ -1,0 +1,8 @@
+store_id,store_name,store_type,city,state,region,open_date
+S001,downtown flagship,Flagship,new york,ny,northeast,2020-05-01
+S002,Lakeside Mall,Outlet,chicago,il,midwest,2021-07-15
+S003,West End Plaza,Shopping Center,seattle,wa,west,2022-03-10
+S004,Sunset Retail Hub,Outlet,phoenix,az,west,2021-11-21
+S005,Riverfront Store,Neighborhood,boston,ma,northeast,2023-01-08
+S005,Riverfront Store,Neighborhood,boston,ma,northeast,2023-01-08
+
