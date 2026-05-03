@@ -1,5 +1,5 @@
 from pyspark.sql import DataFrame, Window
-from pyspark.sql import functions as F,p
+from pyspark.sql import functions as F
 
 
 def normalize_whitespace(column_name: str):
