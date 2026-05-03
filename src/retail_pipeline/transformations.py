@@ -249,7 +249,7 @@ def build_customer_behavior_summary(sales_enriched_df: DataFrame) -> DataFrame:
             F.max("transaction_date").alias("last_purchase_date"),
             F.countDistinct("product_id").alias("unique_products_purchased"),
         )
-        .orderBy(F.desc("total_spent"))
+        .orderBy(F.desc("total_spent")),
     )
 
 
